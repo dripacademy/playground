@@ -1,0 +1,9 @@
+# python env
+.env
+.venv
+
+# pycharm IDE configs
+.idea
+
+# webcame image download folder
+python/scripts/202*-*
